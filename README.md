@@ -116,6 +116,7 @@ Review the Python scripts in the `src/` folder and run the relevant script accor
 ### 5. Explore the Power BI dashboard
 
 Open `power bi/dashboard.pbix` in Microsoft Power BI Desktop.
+![IT Help Desk Analytics Dashboard](assets/dashboard_src.png)
 
 **Note:** The dataset is not necessarily included in the repository. You may need to supply the source data and update file paths before rerunning the analysis.
 
